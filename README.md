@@ -1,7 +1,6 @@
 # Mike Hart
 
-MBA, Rice University Jones Graduate School of Business (2026) | RevOps & FP&A | Former U.S. Army DUSTOFF Officer
-Austin, TX
+MBA, Rice University Jones Graduate School of Business (2026) | RevOps & FP&A | Former U.S. Army DUSTOFF Officer | Austin, TX
 
 Nine years leading operations and data-driven decision-making in high-stakes environments, 
 now focused on revenue operations and financial planning & analysis.
