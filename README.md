@@ -1,16 +1,20 @@
-## Hi there 👋
+# Mike Hart
 
-<!--
-**mike-k-hart/mike-k-hart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MBA, Rice University Jones Graduate School of Business (2026) | RevOps & FP&A | Former U.S. Army Aviation Officer
+Austin, TX
 
-Here are some ideas to get you started:
+Nine years leading operations and data-driven decision-making in high-stakes environments, 
+now focused on revenue operations and financial planning & analysis.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Highlights:**
+- Revenue Operations Intern at Epicor: built a dashboard and upselling framework analyzing whitespace across 8 strategic applications and 37 enterprise accounts
+- Strategy Intern at Thomas Products: built a scalable Excel model with AI-assisted analysis to evaluate revenue flow and product margins for the CEO and board — the model was adopted portfolio-wide, scaling to two additional portfolio companies
+- Elements of Computing Certificate (Python, Java, SQL)
+
+📫 [LinkedIn](https://www.linkedin.com/in/michaelkhart/)
+
+---
+Below are project write-ups demonstrating RevOps and financial analysis skills.
+
+## Featured Projects
+
