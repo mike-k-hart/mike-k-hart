@@ -9,6 +9,14 @@ now focused on revenue operations and financial planning & analysis.
 - Revenue Operations at Epicor: built a dashboard and upselling framework analyzing whitespace across 8 strategic applications and 37 enterprise accounts
 - Strategy at Thomas Products: built a scalable Excel model with AI-assisted analysis to evaluate revenue flow and product margins for the CEO and board. The model was adopted portfolio-wide, scaling to two additional portfolio companies
 
+**U.S. Army:**
+- **Afghanistan** Built a tracking system for 300+ high-use medical devices and rebuilt the
+resupply process around it for 62 multinational units, cutting delivery times from 17 days to 3 across $20M+ of
+frontline equipment.
+- **South Korea** Led prioritization and distribution of 3,500+ medical items across 36,200
+personnel in the first months of COVID-19, allocating scarce supply on incomplete information. Army Superior
+Unit Award.
+
 📫 [LinkedIn](https://www.linkedin.com/in/michaelkhart/)
 
 ---
