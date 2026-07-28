@@ -20,3 +20,8 @@ Below are project write-ups demonstrating RevOps and financial analysis skills.
 **[Whitespace Scoring Framework](https://github.com/mike-k-hart/whitespace-scoring-framework)** — A three stage model
 that scores product fit, buying committee coverage, and pipeline state, then outputs one ranked action per account
 and product. Includes a full write up and an independent validation of the scoring logic.
+
+**[From ERP Export to Actionable Intelligence](https://github.com/mike-k-hart/erp-to-action)** - An AI skill
+pipeline that turns raw ERP exports into margin and discount analysis, built for three recently acquired
+manufacturers and handed over with runbooks so it reruns without me. Found roughly 19% of combined profit
+leaking against published discount schedules that had never been checked.
