@@ -10,9 +10,10 @@ now focused on revenue operations and financial planning & analysis.
 - Strategy at Thomas Products: built a scalable Excel model with AI-assisted analysis to evaluate revenue flow and product margins for the CEO and board. The model was adopted portfolio-wide, scaling to two additional portfolio companies
 
 **U.S. Army:**
-- **Afghanistan** Built a tracking system for 300+ high-use medical devices and rebuilt the
-resupply process around it for 62 multinational units, cutting delivery times from 17 days to 3 across $20M+ of
-frontline equipment.
+- **Afghanistan** Built a tracking system that kept 300+ high-use medical devices maintained
+to standard with zero equipment failures, then rebuilt the medical resupply process around it for 62 multinational
+units, cutting delivery times from 17 days to 3 across $20M+ of life-saving equipment. Frontline units stayed
+equipped when it mattered.
 - **South Korea** Led prioritization and distribution of 3,500+ medical items across 36,200
 personnel in the first months of COVID-19, allocating scarce supply on incomplete information. Army Superior
 Unit Award.
