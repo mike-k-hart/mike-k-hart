@@ -17,3 +17,6 @@ Below are project write-ups demonstrating RevOps and financial analysis skills.
 
 ## Featured Projects
 
+**[Whitespace Scoring Framework](https://github.com/mike-k-hart/whitespace-scoring-framework)** — A three stage model
+that scores product fit, buying committee coverage, and pipeline state, then outputs one ranked action per account
+and product. Includes a full write up and an independent validation of the scoring logic.
