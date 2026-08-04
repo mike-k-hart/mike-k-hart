@@ -8,6 +8,7 @@ now focused on revenue operations and financial planning & analysis.
 **Highlights:**
 - Revenue Operations at Epicor: built a dashboard and upselling framework analyzing whitespace across 8 strategic applications and 37 enterprise accounts
 - Strategy at Thomas Products: built a scalable Excel model with AI-assisted analysis to evaluate revenue flow and product margins for the CEO and board. The model was adopted portfolio-wide, scaling to two additional portfolio companies
+- Co Chair, Veterans Business Battle: Ran the selection funnel and the sponsorship for a national veteran founder pitch competition. Grew sponsorship 118% year over year to an all-time record and left a funded surplus to the next cohort.
 
 **U.S. Army:**
 - **Afghanistan** Built a tracking system that kept 300+ high-use medical devices maintained
@@ -28,6 +29,8 @@ Below are project write-ups demonstrating RevOps and financial analysis skills.
 **[Whitespace Scoring Framework](https://github.com/mike-k-hart/whitespace-scoring-framework)** — A three stage model
 that scores product fit, buying committee coverage, and pipeline state, then outputs one ranked action per account
 and product. Includes a full write up and an independent validation of the scoring logic.
+
+**[Veterans Business Battle: The Operating Model](https://github.com/mike-k-hart/vbb-operating-model)** - A national pitch competition run as a deal funnel with a revenue problem attached. 95 applications narrowed to 16 finalists across four scored rounds, and the sponsorship that funds it grew 118% year over year to an all time record, with a surplus carried forward to the next cohort.
 
 **[From ERP Export to Actionable Intelligence](https://github.com/mike-k-hart/erp-to-action)** - An AI skill
 pipeline that turns raw ERP exports into margin and discount analysis, built for three recently acquired
